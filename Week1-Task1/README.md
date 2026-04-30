@@ -118,6 +118,7 @@ Always ensure correct S3 trigger on uploads folder
 Large images may require increased Lambda timeout/memory
 ```
 ---
+```
 ### 📌 Example Output
 {
   "statusCode": 200,
@@ -128,6 +129,7 @@ Large images may require increased Lambda timeout/memory
 }
 
 ---
+```
 
 ### 👨‍💻 Author
 
