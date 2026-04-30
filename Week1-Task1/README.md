@@ -117,7 +117,7 @@ Lambda processes images in memory (no disk storage)
 Always ensure correct S3 trigger on uploads folder
 Large images may require increased Lambda timeout/memory
 ```
-
+---
 
 ### 📌 Example Output
 ```bash
