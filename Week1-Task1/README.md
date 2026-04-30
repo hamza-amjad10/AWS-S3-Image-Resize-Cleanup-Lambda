@@ -132,8 +132,6 @@ Large images may require increased Lambda timeout/memory
 ```
 
 ## 👨‍💻 Author
-```bash
-Hamza Amjad
-Built for learning AWS serverless architecture with real-world image processing flow.
 
-```
+**Hamza Amjad**  
+Built for learning AWS serverless architecture with real-world image processing flow.
