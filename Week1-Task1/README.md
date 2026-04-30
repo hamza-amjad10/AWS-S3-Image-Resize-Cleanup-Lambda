@@ -96,7 +96,6 @@ Install dependencies:
 ```bash
 pip install boto3 pillow
 
-Or add in requirements.txt:
 
 boto3
 Pillow
@@ -127,4 +126,5 @@ Large images may require increased Lambda timeout/memory
 }
 👨‍💻 Author
 
+Hamza Amjad
 Built for learning AWS serverless architecture with real-world image processing flow.
