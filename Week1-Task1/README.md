@@ -93,7 +93,6 @@ Week1-Task1/
 
 Install dependencies:
 
-```bash
 pip install boto3 pillow
 
 
@@ -116,7 +115,7 @@ testimages-storage-task1/
 Lambda processes images in memory (no disk storage)
 Always ensure correct S3 trigger on uploads folder
 Large images may require increased Lambda timeout/memory
-```
+
 ---
 
 ##📌 Example Output
