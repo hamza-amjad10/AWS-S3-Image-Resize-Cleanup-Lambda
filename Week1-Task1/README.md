@@ -116,7 +116,9 @@ testimages-storage-task1/
 Lambda processes images in memory (no disk storage)
 Always ensure correct S3 trigger on uploads folder
 Large images may require increased Lambda timeout/memory
-📌 Example Output
+```
+
+### 📌 Example Output
 {
   "statusCode": 200,
   "message": "Success",
@@ -125,9 +127,8 @@ Large images may require increased Lambda timeout/memory
   "output_path": "resized/image.png"
 }
 
----
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 Hamza Amjad
 Built for learning AWS serverless architecture with real-world image processing flow.
