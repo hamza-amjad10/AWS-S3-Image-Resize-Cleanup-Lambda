@@ -31,7 +31,7 @@ S3 Bucket (resized/)
 
 ## 📁 Project Structure
 
-
+```
 my-lambda-project/
 │
 ├── resize_lambda.py # Resizes uploaded images
@@ -39,7 +39,7 @@ my-lambda-project/
 ├── requirements.txt # Dependencies (Pillow, boto3)
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
