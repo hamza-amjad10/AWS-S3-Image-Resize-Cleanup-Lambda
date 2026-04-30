@@ -1,4 +1,4 @@
-# 🖼️ AWS Lambda Image Processing with S3 (Resize + Cleanup)
+# AWS Lambda Image Processing with S3 (Resize + Cleanup)
 
 This project demonstrates a **serverless image processing pipeline using AWS Lambda and Amazon S3**. It automatically resizes uploaded images and stores them in a separate folder, and also provides a cleanup function to delete processed files.
 
