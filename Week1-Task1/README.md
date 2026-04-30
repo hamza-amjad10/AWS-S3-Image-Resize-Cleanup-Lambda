@@ -32,12 +32,10 @@ S3 Bucket (resized/)
 ## 📁 Project Structure
 
 ```
-my-lambda-project/
+Week1-Task1/
 │
-├── resize_lambda.py # Resizes uploaded images
-├── cleanup_lambda.py # Deletes files from S3 folders
-├── requirements.txt # Dependencies (Pillow, boto3)
-├── .gitignore
+├── ImageResizeLambdaFunction.py # Resizes uploaded images
+├── EmptyBucketFunction.py # Deletes files from S3 folders
 └── README.md
 ```
 
@@ -45,11 +43,11 @@ my-lambda-project/
 
 ## ⚙️ Technologies Used
 
-- AWS Lambda ☁️
-- Amazon S3 🪣
-- Python 🐍
-- Pillow (PIL) 🖼️
-- Boto3 (AWS SDK) 🔗
+- AWS Lambda 
+- Amazon S3 
+- Python 
+- Pillow (PIL) 
+- Boto3 
 
 ---
 
