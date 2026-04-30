@@ -124,6 +124,9 @@ Large images may require increased Lambda timeout/memory
   "input_key": "uploads/image.png",
   "output_path": "resized/image.png"
 }
+
+---
+
 👨‍💻 Author
 
 Hamza Amjad
